@@ -1,0 +1,45 @@
+html { 
+    background-color: #808080;
+}
+
+body {
+    width:840px;
+    margin:0 auto;
+    padding:10px;
+    font: 13.5px helvetica;
+    background-color: white;
+}
+
+a:link {
+    color: #808080;
+}
+
+a:visited {
+    color: #808080;
+}
+
+a:hover {
+    color:#007ba5;
+    text-decoration:underline;
+}
+
+h1{ 
+    font: 14px helvetica;
+    font-weight: bold;
+    color:#007ba5;
+}
+
+td {
+    padding: 3px;
+}
+
+table
+{
+    font: 13.5px helvetica;
+    text-align: justify;
+}
+
+a[name*="r"] {
+    color:#007ba5;
+}
+
